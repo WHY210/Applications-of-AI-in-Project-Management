@@ -3,5 +3,5 @@
 
 ## HW1_K-NN
 [LINK](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/HW01_KNN_Regression.ipynb)  
-要怎麼改Regression?  
+要怎麼從classification改成Regression?  
 distance=0怎麼辦
