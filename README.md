@@ -1,18 +1,27 @@
 # Applications-of-AI-in-Project-Management
 人工智能於專案管理之應用
 
-## HW1_K-NN
+---
 
-[KNN](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/HW01_KNN_Regression.ipynb)
+## NOTES
 
-要怎麼從classification改成Regression?  
+[上課筆記](https://why1024.notion.site/f22a9c65eaf7433c9cf08aecd8976dbf?pvs=4)
 
-distance=0怎麼辦
+---
 
+## HW
 
 結果只有一次功課
 
+[HW1-KNN](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/HW01_KNN_Regression.ipynb)
+
+  - 要怎麼從classification改成Regression?  
+
+  - distance=0怎麼辦
+
 ---
+
+## TEST
 
 課堂open book小考超級多，發瘋，考卷還被收走了sad
 
