@@ -14,7 +14,7 @@ distance=0怎麼辦
 
 ---
 
-課堂open book小考超級多，發瘋，考卷還被收走了也沒搞懂
+課堂open book小考超級多，發瘋，考卷還被收走了sad
 
 ---
 
@@ -26,4 +26,4 @@ GROUP: 吳巽言, 范翊瑜Jarla
 
 [期末報告PPT (期中報告在後面幾頁)](https://docs.google.com/presentation/d/1PgMIFw71Sz8tsB4q_KQkdoG4eABM-teLpmqktEwvjUM/edit?usp=sharing)
 
-[時間序列 NOTE ](djVzWPw9QQafcx_06HWN1w)
+[時間序列 NOTE ](https://hackmd.io/@a111T6yjQ1i63-6PKIa5CQ/HkKtVXnLT)
