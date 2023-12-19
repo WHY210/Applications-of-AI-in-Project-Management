@@ -26,5 +26,4 @@ GROUP: 吳巽言, 范翊瑜Jarla
 
 [期末報告PPT (期中報告在後面幾頁)](https://docs.google.com/presentation/d/1PgMIFw71Sz8tsB4q_KQkdoG4eABM-teLpmqktEwvjUM/edit?usp=sharing)
 
-[時間序列 NOTE](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/Time%20Series%20Data%20Analyzing%20Note.md)
-
+[時間序列 NOTE ](djVzWPw9QQafcx_06HWN1w)
