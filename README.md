@@ -36,3 +36,14 @@ GROUP: 吳巽言, 范翊瑜Jarla
 [期末報告PPT (期中報告在後面幾頁)](https://docs.google.com/presentation/d/1PgMIFw71Sz8tsB4q_KQkdoG4eABM-teLpmqktEwvjUM/edit?usp=sharing)
 
 [時間序列 NOTE ](https://hackmd.io/@a111T6yjQ1i63-6PKIa5CQ/HkKtVXnLT)
+
+ 
+
+**Comments by Professor - 期中**
+1. slide 有錯 (model flowchart)
+2. 怎麼去資料前處理很重要（我猜他是說這個，before training???）
+
+**Comments by Professor - 期末** 
+1. 應該要放 input number = 1, 2, 3, 4, 5... 然後證明我們的猜測（input number = 2）是正確的。
+2. hidden size = 2000 肯定是超爆大 => over-fitting?????
+3. 所以應該要放training, validation, teseting 三個的結果（MAE, MAPE, MSE, RMSE, R^2）來看說有沒有 over-fitting。
