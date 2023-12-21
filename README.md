@@ -13,7 +13,7 @@
 
 結果只有一次功課
 
-[HW1-KNN](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/HW01_KNN_Regression.ipynb)
+[HW1-KNN](https://github.com/WHY210/Applications-of-AI-in-Project-Management/blob/main/%5B%20HW01%5D%20KNN_Regression.ipynb)
 
   - 要怎麼從classification改成Regression?  
 
