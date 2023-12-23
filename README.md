@@ -23,7 +23,7 @@
 
 ## TEST
 
-課堂open book小考超級多，發瘋，考卷還被收走了sad
+課堂open book小考超級多
 
 ---
 
@@ -42,6 +42,7 @@ GROUP: 吳巽言, 范翊瑜Jarla
 **Comments by Professor - 期中**
 1. slide 有錯 (model flowchart)
 2. 怎麼去資料前處理很重要（我猜他是說這個，before training???）
+3. 輸出只要一個月嗎？不要未來的某筆或某多筆嗎？
 
 **Comments by Professor - 期末** 
 1. 應該要放 input number = 1, 2, 3, 4, 5... 然後證明我們的猜測（input number = 2）是正確的。
